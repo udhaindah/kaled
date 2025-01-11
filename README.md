@@ -3,7 +3,7 @@
 ![banner](image.png)
 
 
-- Website [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=ccex4vipg4)
+- Website [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=pkf36oc2fa)
 - Twitter [@OpenledgerHQ](https://x.com/OpenledgerHQ)
 
 
@@ -16,12 +16,12 @@
 - **Support Proxy Usage (http/socks)**
 
 ## Requirements
-
+- **Register**: [https://testnet.openledger.xyz/](https://testnet.openledger.xyz/?referral_code=pkf36oc2fa)
 - **Node.js**: Ensure you have Node.js installed.
 - **npm**: Ensure you have npm installed.
 
 - **Wallets from open-ledger account**: how to get ???
-- **Go To dashboard** [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=ccex4vipg4) and copy your wallet, look at image below:
+- **Go To dashboard** [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=pkf36oc2fa) and copy your wallet, look at image below:
 
    ![wallet](image-1.png)
 
